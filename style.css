@@ -1,0 +1,14 @@
+body{
+  font-family: "Poppins";
+}
+
+
+#css{
+  font-variant:normal;
+  font-weight: bold;
+  font-style: oblique;
+}
+
+p{
+  font-size:15px;
+}
